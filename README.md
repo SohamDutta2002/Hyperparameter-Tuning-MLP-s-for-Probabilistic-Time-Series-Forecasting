@@ -5,3 +5,7 @@ The Electricity consumption dataset from monash forcasting repository has been u
 https://zenodo.org/records/4656140
 
 Network and dataset parameters defines using :  configs/datasets.json and model_parameters.json files
+
+Paper reffered during implementation:
+
+https://arxiv.org/pdf/2403.04477v1.pdf
