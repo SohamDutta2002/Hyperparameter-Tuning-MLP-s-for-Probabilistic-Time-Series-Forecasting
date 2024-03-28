@@ -4,4 +4,4 @@ This project demosntrates the process of hyperparameter tuning of Multilayer Per
 The Electricity consumption dataset from monash forcasting repository has been used
 https://zenodo.org/records/4656140
 
-Network and dataset parameters defines using :   configs/datasets.json and model_parameters.json files
+Network and dataset parameters defines using :   ==configs/datasets.json== and ==model_parameters.json== files
